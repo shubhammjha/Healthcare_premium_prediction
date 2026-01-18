@@ -1,5 +1,3 @@
-# NOTE: The dataset is private so i cannot upload it here because of copyright.
-
 # Healthcare_premium_prediction
 ## Production-Grade, Risk-Aware & Explainable Machine Learning System
 
