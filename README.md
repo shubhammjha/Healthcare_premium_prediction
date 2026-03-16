@@ -1,5 +1,6 @@
 # Healthcare_premium_prediction
 ## Production-Grade, Risk-Aware & Explainable Machine Learning System
+## Streamlit app: https://healthcarepremiumprediction-blecsl3zyk8s4r83ykfbk9.streamlit.app/
 
 > **A complete applied ML case study covering accuracy, tail-risk mitigation, uncertainty estimation, and model explainability — designed for real-world insurance pricing.**
 
